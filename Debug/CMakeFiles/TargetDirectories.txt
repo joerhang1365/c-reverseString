@@ -1,0 +1,3 @@
+/home/joer/Projects/Reverse/Debug/CMakeFiles/Reverse.dir
+/home/joer/Projects/Reverse/Debug/CMakeFiles/edit_cache.dir
+/home/joer/Projects/Reverse/Debug/CMakeFiles/rebuild_cache.dir
